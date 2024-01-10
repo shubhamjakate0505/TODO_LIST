@@ -1,0 +1,36 @@
+
+
+/* .btn{
+    border-radius: 100%;
+    padding: 10px 10px;
+    font-size: 14px;
+    color: green;
+    background-color:red;
+} */
+.frisclass{
+ /* text-align: center; */
+  border: 1px solid red;
+  background-color: yellow;
+  /* margin-top: 20px; */
+  margin: auto;
+ height: 400px;
+ width: 400px;  
+}
+h1{
+    text-align:center;
+}
+input{
+    margin-top: 50px;
+    margin-left: 80px;
+    text-align: center;
+    width: 190px;
+}
+ul{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+li{
+    font-size: 20px;
+    font-weight: 400px;
+    /* color: white; */
+}
